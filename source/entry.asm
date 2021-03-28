@@ -1,6 +1,5 @@
 bits 32         ;nasm directive - 32 bit
 global entry
-global _testFuncFromNasm
 extern _kmain            ;kmain is defined in the c file
 
 
